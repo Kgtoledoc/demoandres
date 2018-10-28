@@ -187,7 +187,7 @@ div {
 
 .from-watson.latest.top p:before {
   content: ".";
-  color: #ed1c24;
+  color: #6E93C0;
   background-image: url("../img/marker.png");
   background-size: 0.3125rem 1.3125rem;
   position: absolute;
@@ -219,19 +219,19 @@ div {
 }
 
 ::-webkit-input-placeholder {
-  color: white;
+  color: #323232;
 }
 
 ::-moz-placeholder {
-  color: white;
+  color:#323232;
 }
 
 input:-moz-placeholder {
-  color:white;
+  color:#323232;
 }
 
 :-ms-input-placeholder {
-  color: #B5B5B5;
+  color: #323232;
 }
 
 ::-ms-clear {
