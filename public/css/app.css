@@ -50,6 +50,8 @@ div {
 #contentParent {
   height: 95%;
   padding-top: 5%;
+  margin-left: 130px;
+  margin-top: 130px;
   align-content: center;
 }
 
@@ -451,8 +453,8 @@ header {
 header #logo {
 	background: url(../img/logo1.png);
 	display: block;
-	width: 100px;
-	height: 100px;
+	width: 140px;
+	height: 150px;
   margin: auto;
   background-size: 100% 100%;
 }
