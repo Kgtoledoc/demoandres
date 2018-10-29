@@ -552,9 +552,9 @@ header #logo {
  width:90%;
 }
 .modal-close{
- display:inline;
+ display: inline;
  cursor: pointer;
- float:right;
+ float: right; 
  font-size:larger;
 }
 .close-button{
